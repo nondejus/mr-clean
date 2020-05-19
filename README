@@ -5,11 +5,13 @@ trumpcard
 
 -------    x(4)
 
-7 2 4 C    牌
+7 2 4 C    牌 signboard, placard
 
 -------    hex
 
-5 1 4 8    先
-7 5 1 F    生
-6 E 0 5    清
-6 F 5 4    潔
+5 1 4 8    先 early, prior, former, in advance, first
+7 5 1 F    生 to be born, to give birth, life, to grow
+6 E 0 5    清 clear, distinct, complete, pure
+6 F 5 4    潔 clean
+
+-------    unicode
